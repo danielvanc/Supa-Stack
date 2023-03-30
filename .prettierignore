@@ -1,0 +1,9 @@
+node_modules
+
+/build
+/public/build
+.env
+
+/postgres-data
+
+/app/tailwind.css
